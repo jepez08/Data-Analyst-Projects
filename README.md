@@ -3,10 +3,8 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Project Description](#project-description)
-3. [Methodology](#methodology)
-4. [Files and Resources](#files-and-resources)
-5. [Conclusion](#conclusion)
-6. [Contact Information](#contact-information)
+3. [Key Objectives](#key-objectives)
+4. [Learned Techniues](#learned-techniques)
 
 - **Power BI Dashboard**: [Interactive Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMjdmMzRkYjMtMTE3MC00YTRmLWIwNGUtZmU3Yzc2NjA3MTU1IiwidCI6IjA4N2M4YzBiLTZlNDEtNDNhNC05YmNhLWNkMzY1YzU1N2EzMSJ9](https://app.powerbi.com/view?r=eyJrIjoiMzU3ZTQwNzItODE5My00ZWE0LWIzMWYtMWVhMTFiODk1MTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
@@ -33,7 +31,7 @@ The goal of this project was to create a comprehensive dashboard for stakeholder
 - Dynamic titles based on the applied filters.
 - Using KPI indicators.
 - Dashboard designing principles
-- Conditional formatting of the values in visuals using icons or background colour.
+- Conditional formatting of the values in visuals using icons or background color.
 - Data validation techniques.
 - Using bookmarks to switch between two visuals.
 - Setting up a personal gateway to set up the auto-refresh of data.
