@@ -4,9 +4,9 @@
 1. [Overview](#overview)
 2. [Project Description](#project-description)
 3. [Key Objectives](#key-objectives)
-4. [Learned Techniues](#learned-techniques)
+4. [Learned Techniques](#learned-techniques)
 
-- **Power BI Dashboard**: [Interactive Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMjdmMzRkYjMtMTE3MC00YTRmLWIwNGUtZmU3Yzc2NjA3MTU1IiwidCI6IjA4N2M4YzBiLTZlNDEtNDNhNC05YmNhLWNkMzY1YzU1N2EzMSJ9](https://app.powerbi.com/view?r=eyJrIjoiMzU3ZTQwNzItODE5My00ZWE0LWIzMWYtMWVhMTFiODk1MTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+- **Power BI Dashboard**: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzU3ZTQwNzItODE5My00ZWE0LWIzMWYtMWVhMTFiODk1MTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
